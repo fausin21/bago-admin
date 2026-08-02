@@ -1,0 +1,2 @@
+D:/app/new_project/bago_admin/android/app/.cxx/RelWithDebInfo/3h2t12o4/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/app/new_project/bago_admin/android/app/.cxx/RelWithDebInfo/3h2t12o4/arm64-v8a/CMakeFiles/rebuild_cache.dir

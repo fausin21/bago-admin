@@ -1,0 +1,2 @@
+D:/app/new_project/bago_admin/android/app/.cxx/Debug/3s1v2657/x86/CMakeFiles/edit_cache.dir
+D:/app/new_project/bago_admin/android/app/.cxx/Debug/3s1v2657/x86/CMakeFiles/rebuild_cache.dir
