@@ -51,5 +51,10 @@
 	<string>Aplikasi memerlukan izin akses galeri untuk memilih gambar.</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>Aplikasi memerlukan izin akses mikrofon.</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
 </dict>
 </plist>
