@@ -185,14 +185,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.9.3+2"
-  fl_chart:
-    dependency: "direct dev"
-    description:
-      name: fl_chart
-      sha256: "48a1b69be9544e2b03d9a8e843affd89e43f3194c9248776222efcb4206bb1ec"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.62.0"
   fluentui_system_icons:
     dependency: transitive
     description:
@@ -214,14 +206,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.3"
-  flutter_datetime_picker:
-    dependency: "direct dev"
-    description:
-      name: flutter_datetime_picker
-      sha256: "8e695c63c769350e541951227c2775190ec73ceda774a315b1dc9a99d5facfe5"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.5.1"
   flutter_launcher_icons:
     dependency: "direct dev"
     description:

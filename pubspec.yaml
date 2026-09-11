@@ -60,13 +60,12 @@ dev_dependencies:
   animate_do: any
   flutter_speed_dial: any
   permission_handler: any
-  fl_chart: ^0.62.0
+  fl_chart: any
   flutter_spinkit: any
   flutter_svg: any
   flutter_animated_button: any
   glassmorphism: any
   lottie: any
-  flutter_datetime_picker: any
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

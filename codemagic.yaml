@@ -11,6 +11,7 @@ workflows:
       - name: Get Flutter dependencies
         script: |
           flutter clean
+          flutter pub upgrade fl_chart
           flutter pub get
       - name: Install CocoaPods dependencies
         script: |
