@@ -39,7 +39,6 @@ dependencies:
   loading_animation_widget: any
   image_picker: any
   google_mlkit_text_recognition: any
-  google_mlkit_commons: any
   clipboard: any
 
 dev_dependencies:
@@ -57,8 +56,6 @@ dev_dependencies:
   url_launcher: any
   flutter_launcher_icons: any
   path_provider: any
-  firebase_messaging: any
-  firebase_core: any
   iconsax: any
   animate_do: any
   flutter_speed_dial: any
